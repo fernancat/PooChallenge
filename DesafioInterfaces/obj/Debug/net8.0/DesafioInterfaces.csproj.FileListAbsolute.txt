@@ -1,0 +1,15 @@
+/home/fernan/Projects/DesafioInterfaces/bin/Debug/net8.0/DesafioInterfaces
+/home/fernan/Projects/DesafioInterfaces/bin/Debug/net8.0/DesafioInterfaces.deps.json
+/home/fernan/Projects/DesafioInterfaces/bin/Debug/net8.0/DesafioInterfaces.runtimeconfig.json
+/home/fernan/Projects/DesafioInterfaces/bin/Debug/net8.0/DesafioInterfaces.dll
+/home/fernan/Projects/DesafioInterfaces/bin/Debug/net8.0/DesafioInterfaces.pdb
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.AssemblyInfoInputs.cache
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.AssemblyInfo.cs
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.csproj.CoreCompileInputs.cache
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.sourcelink.json
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.dll
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/refint/DesafioInterfaces.dll
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.pdb
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/DesafioInterfaces.genruntimeconfig.cache
+/home/fernan/Projects/DesafioInterfaces/obj/Debug/net8.0/ref/DesafioInterfaces.dll

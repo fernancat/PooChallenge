@@ -1,0 +1,15 @@
+/home/fernan/Projects/desafioTresEstudiantes/bin/Debug/net8.0/desafioTresEstudiantes
+/home/fernan/Projects/desafioTresEstudiantes/bin/Debug/net8.0/desafioTresEstudiantes.deps.json
+/home/fernan/Projects/desafioTresEstudiantes/bin/Debug/net8.0/desafioTresEstudiantes.runtimeconfig.json
+/home/fernan/Projects/desafioTresEstudiantes/bin/Debug/net8.0/desafioTresEstudiantes.dll
+/home/fernan/Projects/desafioTresEstudiantes/bin/Debug/net8.0/desafioTresEstudiantes.pdb
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.AssemblyInfoInputs.cache
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.AssemblyInfo.cs
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.csproj.CoreCompileInputs.cache
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.sourcelink.json
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.dll
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/refint/desafioTresEstudiantes.dll
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.pdb
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/desafioTresEstudiantes.genruntimeconfig.cache
+/home/fernan/Projects/desafioTresEstudiantes/obj/Debug/net8.0/ref/desafioTresEstudiantes.dll

@@ -1,0 +1,15 @@
+/home/fernan/Projects/calculadoraHerencia/calculadora/bin/Debug/net8.0/calculadora
+/home/fernan/Projects/calculadoraHerencia/calculadora/bin/Debug/net8.0/calculadora.deps.json
+/home/fernan/Projects/calculadoraHerencia/calculadora/bin/Debug/net8.0/calculadora.runtimeconfig.json
+/home/fernan/Projects/calculadoraHerencia/calculadora/bin/Debug/net8.0/calculadora.dll
+/home/fernan/Projects/calculadoraHerencia/calculadora/bin/Debug/net8.0/calculadora.pdb
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.AssemblyInfoInputs.cache
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.AssemblyInfo.cs
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.csproj.CoreCompileInputs.cache
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.sourcelink.json
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.dll
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/refint/calculadora.dll
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.pdb
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/calculadora.genruntimeconfig.cache
+/home/fernan/Projects/calculadoraHerencia/calculadora/obj/Debug/net8.0/ref/calculadora.dll
